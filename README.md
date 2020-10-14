@@ -1,8 +1,5 @@
 # MIASHS: Analyse de données multidimensionnelles (2020)
-## Pierre Lafaye De Micheaux
 
-## Contact
-pierre.lafaye-de-micheaux@univ-montp3.fr
 
 ## Programme des cours
 - __COURS 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/1_Introduction_pandas.ipynb)  
