@@ -2,7 +2,7 @@
 
 
 ## Programme des cours
-- __COURS 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/1_Introduction_pandas.ipynb)  
+- __COURS 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/V3DMI5/blob/master/colabs/1_Introduction_pandas.ipynb)  
   => 11 novembre aprèm
 - __COURS 2__ utilisation de l'ACP de `scikit-learn` pour l'exploration de données [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/2_Utilisation_ACP.ipynb)  
   => 24 novembre matin
